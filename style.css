@@ -1,12 +1,21 @@
 body{
-    background: #CCCCCC;
+    background: rgb(198, 247, 166);
+}
+
+h1 {
+    text-align: center
 }
 
 p {
     text-align: center;
 
-}
 
+ #missão{
+     
+
+ }
+
+}
     strong{
-        color: blue;
+        color: rgb(241, 150, 75);
     }
